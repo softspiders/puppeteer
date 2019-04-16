@@ -1,4 +1,4 @@
-# Puppeteer's HelloWorld
+# [Puppeteer](https://github.com/GoogleChrome/puppeteer)'s HelloWorld
 
 ## Requirements
 
