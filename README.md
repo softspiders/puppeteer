@@ -10,7 +10,7 @@ Absent
 
 ## Direct feature descendants
 
-Yet absent
+[puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot)
 
 ---
 
@@ -20,11 +20,11 @@ Absent
 
 ## Direct code descendants
 
-Yet absent
+[puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot)
 
 ---
 
-## Install
+## Installation
 
 ```sh
 yarn
