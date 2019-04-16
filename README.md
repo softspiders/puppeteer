@@ -1,4 +1,4 @@
-# CRUD testing in MongoDb with Mongoose and Mocha
+# Puppeteer's HelloWorld
 
 ## Requirements
 
