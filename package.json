@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [ss, softspiders, puppeteer, e2e, test, testing, headless, browser, softspider, helloworld, hello-world, min],
-  "author": "",
+  "author": "Alexander Lapygin",
   "license": "ISC",
   "dependencies": {
     "puppeteer": "^1.14.0"
