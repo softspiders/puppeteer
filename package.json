@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [ss, softspiders, puppeteer, e2e, test, testing, headless, browser, softspider, helloworld, hello-world, mim],
+  "keywords": [ss, softspiders, puppeteer, e2e, test, testing, headless, browser, softspider, helloworld, hello-world, min],
   "author": "",
   "license": "ISC",
   "dependencies": {
