@@ -3,9 +3,7 @@
 const puppeteer = require('puppeteer');
 
 async function helloWorld() {
-  const browser = await puppeteer.launch({
-    executablePath: './node_modules/puppeteer/.local-chromium/win64-599821/chrome-win/chrome.exe',
-  });
+  const browser = await puppeteer.launch();
   
   const page = await browser.newPage();
 
