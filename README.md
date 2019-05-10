@@ -11,6 +11,7 @@ Absent
 ## Direct feature descendants
 
 [puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot)
+[puppeteer-jest](https://github.com/softspider/puppeteer-jest)
 
 ---
 
