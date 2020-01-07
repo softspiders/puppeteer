@@ -1,5 +1,9 @@
 # [Puppeteer](https://github.com/GoogleChrome/puppeteer)'s HelloWorld
 
+## Feature tags
+
+- puppeteer
+
 ## Requirements
 
 [Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
