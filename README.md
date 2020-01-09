@@ -1,3 +1,5 @@
+SOFTSPIDERS
+
 # [Puppeteer](https://github.com/GoogleChrome/puppeteer)'s HelloWorld
 
 ## Feature tags
@@ -8,24 +10,14 @@
 
 [Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
 
-## Direct feature ancestors
+## Direct ancestors
 
 Absent
 
-## Direct feature descendants
+## Direct descendants
 
-* [puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot)
+* [puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot) - also by code
 * [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
-
----
-
-## Direct code ancestors
-
-Absent
-
-## Direct code descendants
-
-[puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot)
 
 ---
 
