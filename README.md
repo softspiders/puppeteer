@@ -16,8 +16,8 @@ Absent
 
 ## Direct descendants
 
-* [puppeteer-screenshot](https://github.com/softspider/puppeteer-screenshot) - also by code
-* [puppeteer-jest](https://github.com/softspider/puppeteer-jest)
+* [puppeteer-screenshot](https://github.com/softspiders/puppeteer-screenshot) - also by code
+* [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
 
 ---
 
