@@ -6,18 +6,15 @@ SOFTSPIDERS
 
 - puppeteer
 
-## Requirements
-
-[Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
-
-## Direct ancestors
-
-Absent
-
 ## Direct descendants
 
 * [puppeteer-screenshot](https://github.com/softspiders/puppeteer-screenshot) - also by code
 * [puppeteer-jest](https://github.com/softspiders/puppeteer-jest)
+
+---
+## Requirements
+
+[Node.js](https://nodejs.org/en/download/package-manager/) >= v6.4.0
 
 ---
 
